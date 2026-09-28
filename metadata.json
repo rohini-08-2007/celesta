@@ -1,0 +1,6 @@
+{
+  "name": "EventEase - Local Event Services Marketplace",
+  "description": "Discover trusted local event professionals, compare services, request quotes, and book decorators, photographers, caterers, DJs, and planners for your celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
